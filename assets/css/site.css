@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-bottom: 5vw;
+}
+#logo{
+    height: auto;
+    width: 10%;
+}
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    max-width: 1500px;
+    max-height: auto;
+}
